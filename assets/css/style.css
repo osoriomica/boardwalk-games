@@ -59,12 +59,12 @@ h2 {
 .custom-button-outline {
     border: 3px solid var(--highlight-color);
     padding: 7px 25px;
-    color: var(--highlight-color)
+    color: var(--highlight-color);
 }
 
 .custom-button-outline:hover {
     background-color: var(--highlight-color);
-    color: white
+    color: white;
 }
 
 /* Navbar */
@@ -93,6 +93,12 @@ h2 {
 
 #services .card {
     margin-bottom: 1.5rem;
+}
+
+/* Events */
+.legend-highlight{
+    background-color: var(--highlight-color);
+    color: white;
 }
 
 /* Game library cards */
